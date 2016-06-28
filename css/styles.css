@@ -24,10 +24,10 @@ h1{
   width: 280px;
   height: auto;
   position: absolute;
-  background-color: lightblue;
+  background-color: rgba(175, 238, 238, 0.5);
   border-radius: 5px;
   border: solid;
-  border-color: #9055A2;
+  border-color: #2b90d9;
 }
 
 .animal-img{
@@ -47,6 +47,7 @@ p{
 .common-name{
   font-weight: bold;
   font-size: 18px;
+  color:#1f4e5f;
 }
 
 .pop-stats:before{
@@ -56,6 +57,7 @@ p{
 
 .scientific-name{
   font-style: italic;
+  color:#1f4e5f;
 }
 #american-bison{
   margin-left: 300px;
