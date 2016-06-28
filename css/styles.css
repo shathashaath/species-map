@@ -1,0 +1,75 @@
+h1{
+  text-align: center;
+}
+
+.animal-card{
+  width: 280px;
+  height: auto;
+  position: absolute;
+  background-color: lightblue;
+  border-radius: 5px;
+  border: solid;
+}
+
+.animal-img{
+  width: 100px;
+  height: auto;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  float: left;
+}
+
+p{
+  text-align: center;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.common-name{
+  font-weight: bold;
+  font-size: 18px;
+}
+.scientific-name{
+  font-style: italic;
+}
+#american-bison{
+  margin-left: 300px;
+  margin-top: 50px;
+}
+
+#chinchilla{
+  margin-left: 450px;
+  margin-top: 500px;
+}
+#dwarf-lemur{
+  margin-left: 800px;
+  margin-top: 400px;
+}
+#little-cat{
+  margin-left: 350px;
+  margin-top: 275px;
+}
+#argali{
+  margin-left: 900px;
+  margin-top: 50px;
+}
+#monk-seal{
+  margin-left: 50px;
+  margin-top: 300px;
+}
+#dhole{
+  margin-left: 950px;
+  margin-top: 245px;
+}
+#sand-cat{
+  margin-left: 1200px;
+  margin-top: 60px;
+}
+#numbat{
+  margin-left: 1300px;
+  margin-top: 550px;
+}
+#blue-whale{
+  margin-left: 800px;
+  margin-top: 700px;
+}
