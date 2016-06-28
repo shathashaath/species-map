@@ -29,6 +29,12 @@ p{
   font-weight: bold;
   font-size: 18px;
 }
+
+.pop-stats:before{
+  content: url("../img/globe12.png");
+  font-size: 10px;
+}
+
 .scientific-name{
   font-style: italic;
 }
@@ -73,3 +79,24 @@ p{
   margin-left: 800px;
   margin-top: 700px;
 }
+
+.animal-card{
+  box-shadow: 5px 5px 2px pink;
+}
+  /*content:"";
+  width: 100%;
+  height: 100%;
+  display: block;
+  z-index: -1;
+  position: relative;
+  padding: 15px;
+  background: #ddd;
+  left: -15px;
+  top: -15px;*/
+  /*-webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  -webkit-box-shadow: inset 2px 2px 4px rgba(0,0,0,0.4);
+  -moz-box-shadow: inset 2px 2px 4px rgba(0,0,0,0.4);
+  box-shadow: inset 2px 2px 4px rgba(0,0,0,0.4);
+}*/
