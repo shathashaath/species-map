@@ -3,21 +3,22 @@ margin:0;
 padding:0;
 }
 body{
-  background-color: #FADAD8;
+  background-color: #d9e1e8;
 }
 .header{
   background-image: url("../img/wold-map.jpg");
-  height:120px;
+  opacity: 0.8;
+  height:140px;
   margin-bottom: 40px;
   width: 100%;
-  margin-top: -28px;
+  margin-top: -35px;
 }
 h1{
   text-align: center;
   padding-top: 40px;
   font-family: 'Sigmar One', cursive;
-  color: #7200da;
-  font-size: 40px;
+  color: #71226e;
+  font-size: 50px;
 }
 .animal-card{
   width: 280px;
@@ -26,6 +27,7 @@ h1{
   background-color: lightblue;
   border-radius: 5px;
   border: solid;
+  border-color: #9055A2;
 }
 
 .animal-img{
